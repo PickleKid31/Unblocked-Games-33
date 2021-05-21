@@ -1,0 +1,37 @@
+html {
+  background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/41810341995087.57bd505fc7b34.gif');
+  background-size: 1550px 700px;
+}
+nav ul {
+  float: right;
+  background-color: white;
+  border-radius: 18px;
+  text-align: center;
+  padding: 24px;
+  margin: 24px;
+  width: 20%;
+}
+nav ul li {
+  list-style-type: none;
+}
+nav ul li a {
+  text-decoration: none;
+  background-color: rgb(238, 238, 238);
+  padding: 8px;
+  border-radius: 10px;
+}
+nav ul li a:hover {
+  background-color: rgb(197, 197, 197)
+}
+article {
+  width: 66%;
+  background-color: white;
+  margin: 24px;
+  padding: 24px;
+  border-radius: 18px;
+  text-align: center;
+}
+iframe {
+  border-radius: 18px;
+  border: 15px black;
+}
